@@ -32,3 +32,11 @@ A simple task tracking mobile application built with Flutter. This app allows us
 ```sh
    flutter run
 ```
+## Screenshot
+
+- ![Home Screen with Sample Task](screenshots/screen_with_sample_task.png)
+
+- ![Add task screen](screenshots/add.png)
+
+- ![Edit task screen](screenshots/edit.png)
+
